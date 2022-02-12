@@ -11,5 +11,5 @@
 - 🤔 I’m looking for help with DSA and Django python web framework.
 - 💬 Ask me about full stack web development.
 - 📫 How to reach me: LinkedIn, linkedin.com/in/himanshu-chauhan-bb6a671b2
-- 😄 2022 goal , i will crack interviews of the top multinational companies.
+- 😄 2022 goal , i will crack the interviews of the top multinational companies.
 - ⚡ Fun fact: I am so exciting with listening songs.
