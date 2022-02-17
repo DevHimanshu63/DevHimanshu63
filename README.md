@@ -13,3 +13,4 @@
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/himanshu-chauhan-bb6a671b2/">LinkedIn </a>
 - 😄 2022 goal , i will crack the interviews of the top multinational companies.
 - ⚡ Fun fact: I am so exciting with listening songs.
+- <img src="https://github-readme-stats.vercel.app/api?username=DevHimanshu63&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
