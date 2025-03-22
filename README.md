@@ -31,7 +31,7 @@ I'm a Full Stack Developer passionate about building scalable web applications. 
 ---
 
 ### 💬 Connect with Me
-- [LinkedIn]((https://www.linkedin.com/in/himanshu-chauhan-bb6a671b2/))
+- [LinkedIn](https://www.linkedin.com/in/himanshu-chauhan-bb6a671b2/)
 - [Twitter](https://twitter.com/your-twitter)
-- [Personal Website]((https://devhimanshu.vercel.app/))
+- [Personal Website](https://devhimanshu.vercel.app/)
 
