@@ -31,21 +31,7 @@ I'm a Full Stack Developer passionate about building scalable web applications. 
 ---
 
 ### 💬 Connect with Me
-- [LinkedIn]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/himanshu-chauhan-bb6a671b2/))
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/himanshu-chauhan-bb6a671b2/))
 - [Twitter](https://twitter.com/your-twitter)
 - [Personal Website](https://yourwebsite.com)
-
----
-
-## 💻 Latest Blog Posts (Optional)
-
-- [How to Build Scalable Web Apps with Node.js and React](https://yourblog.com/how-to-build-scalable-web-apps)
-- [Using AWS for Serverless Applications](https://yourblog.com/aws-serverless)
-
----
-
-### 🌍 Support My Open-Source Projects
-- [Contribute to my repositories](https://github.com/your-username)
-
----
 
