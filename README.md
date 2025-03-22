@@ -37,7 +37,7 @@ I'm a Full Stack Developer passionate about building scalable web applications. 
 ---
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide_title=true&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevHimanshu63&show_icons=true&count_private=true&hide_title=true&theme=tokyonight)
 
 ---
 
