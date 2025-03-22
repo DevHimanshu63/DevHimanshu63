@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Himanshu Singh 👋
 
 ## 🚀 About Me
 I'm a Full Stack Developer passionate about building scalable web applications. I have experience working with a variety of technologies in both front-end and back-end development. My goal is to keep learning and building high-performance applications.
@@ -26,23 +26,12 @@ I'm a Full Stack Developer passionate about building scalable web applications. 
 ---
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide_title=true&theme=tokyonight)
-
----
-
-## 📂 Featured Projects
-
-### 🚀 [Project 1: My Awesome App](https://github.com/your-username/project-1)
-> A full-stack web application built with Node.js, React, MongoDB, and TailwindCSS.
-
-- **Tech Stack**: Node.js, React, MongoDB, TailwindCSS, Express.js
-- **Key Features**: User Authentication, Real-time Chat, Responsive UI
-- ![Project Badge](https://img.shields.io/badge/Live-Demo-blue)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevHimanshu630&show_icons=true&count_private=true&hide_title=true&theme=tokyonight)
 
 ---
 
 ### 💬 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin/)
+- [LinkedIn]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/himanshu-chauhan-bb6a671b2/))
 - [Twitter](https://twitter.com/your-twitter)
 - [Personal Website](https://yourwebsite.com)
 
